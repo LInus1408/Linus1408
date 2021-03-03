@@ -1,16 +1,26 @@
-### Hi there 👋
+# Maksim Hasanau
 
-<!--
-**LInus1408/Linus1408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact info:
 
-Here are some ideas to get you started:
+-   mobile: +375293315887
+-   email: maxlinus1408@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Front-end developer
+
+## Skills:
+
+-   HTML
+-   CSS
+-   Git
+-   Basics JavaScript
+-   OC Linux
+-   Pascal
+
+## Code examples
+
+-   [English-School](https://linus1408.github.io/English-School/)
+-   [Minsk](https://linus1408.github.io/Minsk/)
+
+## English
+
+My English level is A2
