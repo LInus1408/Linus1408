@@ -1,25 +1,25 @@
 # Maksim Hasanau
 
+## Front-end Web Developer
+
 ## Contact info:
 
--   mobile: +375293315887
+-   phone: +375293315887
 -   email: maxlinus1408@gmail.com
-
-## Front-end developer
 
 ## Skills:
 
--   HTML
+-   HTML5
 -   CSS
 -   Git
--   Basics JavaScript
--   OC Linux
+-   JavaScript
+-   Linux
 -   Pascal
+-   Bash
 
 ## Code examples
 
--   [English-School](https://linus1408.github.io/English-School/)
--   [Minsk](https://linus1408.github.io/Minsk/)
+-   [Codewars](https://www.codewars.com/users/LInus1408)
 
 ## English
 
