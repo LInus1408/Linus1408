@@ -11,11 +11,12 @@
 
 -   HTML5
 -   CSS
--   Git
 -   JavaScript
+-   Git
+-   Figma
 -   Linux
--   Pascal
 -   Bash
+-   Pascal
 
 ## Code examples
 
