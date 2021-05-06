@@ -11,6 +11,7 @@
 
 -   HTML5
 -   CSS
+-   Tailwind CSS
 -   JavaScript
 -   Git
 -   Figma
